@@ -1,0 +1,5 @@
+movies
+.DS_Store
+.idea
+.venv-learn-spark
+venv
